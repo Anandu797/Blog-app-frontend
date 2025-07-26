@@ -115,7 +115,7 @@ changeInput({...input,[event.target.name]:event.target.value})
                             <div className="col col-12 col-sm-6 col-md-6 col-lg-6 col-xl-6 col-xxl-6">
 
 
-                                <a href="" className="btn btn-primary">Back to login page</a>
+                                <a href="/" className="btn btn-primary">Back to login page</a>
 
 
                             </div>
